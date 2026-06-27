@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/am-ende-des-weges/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Am Ende des Weges](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/am-ende-des-weges/) |
+| **Get License** | [Music Rights & Licensing for Am Ende des Weges](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/am-ende-des-weges/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Drop-Top in der Night, Baby, City Lights ziehen vorbei
+> Du bist flawless, kein Cap, nur wir beide, so wild und so high
+> Spür den Bass in der Brust, deine Vibes machen süchtig und schwach
+> Komm, wir tauchen jetzt ab, lass uns leben, die ganze Nacht wach
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
