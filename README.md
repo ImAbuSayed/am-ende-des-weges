@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/am-ende-des-weges/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Am Ende des Weges](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/am-ende-des-weges/) |
+| **Get License** | [Commercial Licensing for Am Ende des Weges](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/am-ende-des-weges/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f08f6b8471029e878b92a56e8cd6698643a67e75d145eefb898db517923365c6` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
